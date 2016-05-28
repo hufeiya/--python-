@@ -1,13 +1,9 @@
-Class Assignments
+作业示例
 -----------------
 
+这是一个作业示例，老师可以创建自定义的作业（用结构化文本语言），学生可以在线写代码提交运行。比如老师可以布置一个这样的作业：
 
-This file allows you to create custom assignments for your class.  You write this file
-using any valid restructuredText, including the directives that are used in the book.
-For example if you want to have a homework problem where the students do some coding
-you can do this:
-
-Write a program that counts from 1 to 10
+写一个从1加到0的程序
 
 .. actex:: unique_id_1
 

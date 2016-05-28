@@ -16,14 +16,14 @@
 
 By Brad Miller and David Ranum, Luther College
 
-Assignments
+作业
 :::::::::::
 
 .. toctree::
 
    assignments.rst
 
-Introduction
+简介
 ::::::::::::
 
 .. toctree::
@@ -47,7 +47,7 @@ Introduction
     Introduction/DiscussionQuestions.rst
     Introduction/ProgrammingExercises.rst
 
-Analysis
+分析
 ::::::::
 
 .. toctree::
@@ -65,7 +65,7 @@ Analysis
     AlgorithmAnalysis/DiscussionQuestions.rst
     AlgorithmAnalysis/ProgrammingExercises.rst
 
-Basic Data Structures
+基本数据结构
 :::::::::::::::::::::
 
 .. toctree::
@@ -100,7 +100,7 @@ Basic Data Structures
     BasicDS/ProgrammingExercises.rst
 
 
-Recursion
+递归
 :::::::::
 
 .. toctree::
@@ -125,7 +125,7 @@ Recursion
     Recursion/pythondsProgrammingExercises.rst
 
 
-Sorting and Searching
+排序和搜索
 :::::::::::::::::::::
 
 .. toctree::
@@ -150,7 +150,7 @@ Sorting and Searching
 
 
 
-Trees and Tree Algorithms
+树和树的算法
 :::::::::::::::::::::::::
 
 .. toctree::
@@ -181,7 +181,7 @@ Trees and Tree Algorithms
 
 
 
-Graphs and Graph Algorithms
+图和图的算法
 :::::::::::::::::::::::::::
 
 .. toctree::
@@ -215,11 +215,11 @@ Graphs and Graph Algorithms
     Graphs/ProgrammingExercises.rst
 
 
-Acknowledgements
+致谢
 ::::::::::::::::
 
 
-Indices and tables
+索引和列表
 ::::::::::::::::::
 
 * :ref:`genindex`
