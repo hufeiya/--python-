@@ -2,18 +2,15 @@
     This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
 
 
-Objectives
+目标
 ----------
 
--  To review the ideas of computer science, programming, and
-   problem-solving.
 
--  To understand abstraction and the role it plays in the
-   problem-solving process.
+-  大概回顾计算机科学基础知识，编程语言，和解决问题的思路。
 
--  To understand and implement the notion of an abstract data type.
+-  理解抽象，了解它在问题解决中发挥的作用。
 
--  To review the Python programming language.
+-  理解抽象数据类型的概念，并能实现它。
 
--  测试
+-  复习Python语言。
 

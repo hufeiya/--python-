@@ -2,7 +2,7 @@
     This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
 
 
-Getting Started
+入门
 ---------------
 
 The way we think about programming has undergone many changes in the
@@ -16,6 +16,7 @@ of complexity through which computer scientists must navigate.
 Throughout all of this rapid evolution, a number of basic principles
 have remained constant. The science of computing is concerned with using
 computers to solve problems.
+自从用导线和继电器造出的第一台电子计算机
 
 You have no doubt spent considerable time learning the basics of
 problem-solving and hopefully feel confident in your ability to take a
@@ -33,4 +34,5 @@ Python programming language. Although we cannot provide a detailed,
 exhaustive reference, we will give examples and explanations for the
 basic constructs and ideas that will occur throughout the remaining
 chapters.
+
 
